@@ -18,7 +18,7 @@ This contract implements a conditional payment escrow with dispute resolution.
 
 ### Functions
 - fund() — buyer locks funds
-- markDelivered() — seller confirms delivery
-- releaseFunds() — buyer releases payment
-- raiseDispute() — buyer/seller raises dispute
-- resolveDispute() — arbitrator settles
+- markDelivered() - seller confirms delivery
+- releaseFunds() - buyer releases payment
+- raiseDispute() - buyer/seller raises dispute
+- resolveDispute() - arbitrator settles
